@@ -1,0 +1,39 @@
+.box_border_style{
+    border: 2px solid #cacaca;
+    padding:10px 5px;
+}
+.input_style{
+    width:70%;
+}
+.button_style{
+    width:150px;
+    border-radius: 10px;
+    background-color: #ccc;
+}
+.text_style{
+    font-weight: bold;
+}
+.item_style{
+    max-width: 125px;
+}
+.price_field{
+    width: 70px;
+    padding: 2px 0;
+    text-align: center;
+}
+.item_styles{
+    max-width: 125px;
+    margin-left: 50px;
+}
+.item_display_style{
+    display: flex;
+}
+
+.amount_style{
+    max-width: 80%;
+    text-align: center;
+}
+.pending_style{
+    width:50px;
+    text-align: center;
+}
